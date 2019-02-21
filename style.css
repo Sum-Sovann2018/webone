@@ -11,6 +11,16 @@ body{
   opacity: 0.6;
   z-index: -1;
 }
+input[type= text]{
+  color:pink;
+  width: 800px;
+  height: 30px;
+  margin-top: 28px;
+  border-radius: 10px;
+  border-color: orange;
+
+}
+
 nav {
 
   margin: 30px;
@@ -52,14 +62,5 @@ main > p{
   color: green;
   font-size: 40px;
   margin-top: 14%;
-
-}
-input[type= text]{
-  color:pink;
-  width: 800px;
-  height: 30px;
-  margin-top: 28px;
-  border-radius: 10px;
-  border-color: orange;
 
 }
