@@ -15,25 +15,27 @@ nav {
 
   margin: 30px;
   margin-right: 200px;
-  text-align: right;
-  }
-nav > a {
-
-  color: yellow;
-  margin-right: 100px;
-  
+  text-align:right;
+  margin-top: 10px;
 
 }
-a:hover
-{
+  a:hover{
   background-color: black;
-  color:red;
+  color:orange;
   text-overflow: 30px;
   border-radius: 4px;
 }
+nav > a {
+
+  color: yellow;
+  margin-top:100px; 
+  margin-right: 100px;
+}
+
+
 .logo {
   font-size: 30px;
-  color: red;
+  color: orange;
   float: left;
   margin-top: 0;
   margin-left: 60px;
@@ -42,7 +44,7 @@ main{
   position: absolute;
   margin: 0;
   display: block;
-  background-color: ;
+  background-color:;
   text-align: center;
   width: 100%;
 }
