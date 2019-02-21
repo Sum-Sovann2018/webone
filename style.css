@@ -54,3 +54,12 @@ main > p{
   margin-top: 14%;
 
 }
+input[type= text]{
+  color:pink;
+  width: 800px;
+  height: 30px;
+  margin-top: 28px;
+  border-radius: 10px;
+  border-color: orange;
+
+}
