@@ -14,10 +14,22 @@ body{
 nav {
 
   margin: 30px;
-  margin-right: 60px;
-}
+  margin-right: 200px;
+  text-align: right;
+  }
 nav > a {
+
   color: yellow;
+  margin-right: 100px;
+  
+
+}
+a:hover
+{
+  background-color: black;
+  color:red;
+  text-overflow: 30px;
+  border-radius: 4px;
 }
 .logo {
   font-size: 30px;
